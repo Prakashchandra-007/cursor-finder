@@ -1,0 +1,46 @@
+html,body{
+    margin:0;
+    padding:0;
+}
+.wapper{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    height:100vh;
+    width: 100%;
+    align-items:center;
+    background-image: url(../images/main-img.png);
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+.inner-divs{
+    
+    height:100%;
+}
+.div-1{
+    /* background-color:red; */
+}
+.div-2{
+    /* background-color:rgb(190, 0, 0); */
+}
+.div-3{
+    /* background-color:rgb(155, 6, 6); */
+}
+.div-4{
+    /* background-color:rgb(131, 2, 2); */
+}
+.div-5{
+    /* background-color:rgb(95, 3, 3); */
+}
+.div-6{
+    /* background-color:rgb(71, 4, 4); */
+}
+.div-7{
+    /* background-color:rgb(56, 3, 3); */
+}
+.div-8{
+    /* background-color:rgb(39, 11, 11); */
+}
+.div-9{
+    /* background-color:rgb(49, 2, 2); */
+}
